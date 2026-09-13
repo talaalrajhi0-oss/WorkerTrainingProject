@@ -94,3 +94,11 @@ The project demonstrates how a frontend application communicates with a backend 
 
 \- Git
 
+\## Version Control
+
+
+
+This project uses Git with a main branch and feature branches for development.
+
+Changes are committed with meaningful messages and reviewed before merging.
+
