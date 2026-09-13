@@ -1,0 +1,19 @@
+# ASP.NET / .NET
+bin/
+obj/
+.vs/
+
+# Next.js
+node_modules/
+.next/
+
+# Environment files
+.env
+.env.local
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
